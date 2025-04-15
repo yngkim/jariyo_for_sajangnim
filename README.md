@@ -1,4 +1,6 @@
 # Jariyo for Owner (자리요 for 사장님)
+<img width="1026" alt="image" src="https://github.com/user-attachments/assets/33484b04-6c02-45f8-ab48-c585469dd2b5" />
+
 
 A Flutter-based seat management system designed for business owners to efficiently manage and monitor their establishment's seating arrangements.
 
